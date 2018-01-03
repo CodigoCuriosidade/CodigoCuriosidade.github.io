@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://codigocuriosidade.org/post/programcao/web/</loc>
+    <lastmod>2017-12-28T23:19:04-02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://codigocuriosidade.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codigocuriosidade.org/</loc>
+    <lastmod>2017-12-28T23:19:04-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codigocuriosidade.org/post/</loc>
+    <lastmod>2017-12-28T23:19:04-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codigocuriosidade.org/categories/programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2017-12-28T23:19:04-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codigocuriosidade.org/categories/recomenda%C3%A7%C3%A3o/</loc>
+    <lastmod>2017-12-28T23:19:04-02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://codigocuriosidade.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

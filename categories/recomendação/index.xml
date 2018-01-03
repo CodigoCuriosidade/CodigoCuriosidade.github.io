@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recomendação on Código &amp; Curiosidade</title>
+    <link>http://codigocuriosidade.org/categories/recomenda%C3%A7%C3%A3o/</link>
+    <description>Recent content in Recomendação on Código &amp; Curiosidade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright©Codigo&amp;Curiosidade</copyright>
+    <lastBuildDate>Thu, 28 Dec 2017 23:19:04 -0200</lastBuildDate>
+    
+	<atom:link href="http://codigocuriosidade.org/categories/recomenda%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Livros para aprender as bases do desenvolvimento WEB</title>
+      <link>http://codigocuriosidade.org/post/programcao/web/</link>
+      <pubDate>Thu, 28 Dec 2017 23:19:04 -0200</pubDate>
+      
+      <guid>http://codigocuriosidade.org/post/programcao/web/</guid>
+      <description>Livros para aprender HTML, CSS e JavaScript Neste primeiro post gostaria de recomendar dois livros que li e recomendo para quem quer aprender HTML/CSS e JS. A velocidade de leitura varia de pessoa para pessoa, mas se você for acostumado com a leitura a segunda parte é ser acostumado a carregar o note para vários lugares (CUIDADO- Grandes riscos de você ser assaltado se morar no Brasil. Se persistirem os sintomas, o médico deverá ser consultado ) A quantidade de livros são incontáveis, o numero de cursos são gigantes, mas para quem gosta de ter um livro (digital ou físico) um ou dois não fazem mal não é verdade?</description>
+    </item>
+    
+  </channel>
+</rss>
