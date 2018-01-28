@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright©Codigo&amp;Curiosidade</copyright>
-    <lastBuildDate>Thu, 28 Dec 2017 23:19:04 -0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2018 13:35:42 -0200</lastBuildDate>
     
 	<atom:link href="https://codigocuriosidade.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://codigocuriosidade.github.io/sobre/sobre/</link>
+      <pubDate>Sat, 27 Jan 2018 13:35:42 -0200</pubDate>
+      
+      <guid>https://codigocuriosidade.github.io/sobre/sobre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desafio Playcode tarefa 1-Montando o layout do site</title>
+      <link>https://codigocuriosidade.github.io/post/desafios/playcode/side-project/desafio1/</link>
+      <pubDate>Thu, 25 Jan 2018 13:41:19 -0200</pubDate>
+      
+      <guid>https://codigocuriosidade.github.io/post/desafios/playcode/side-project/desafio1/</guid>
+      <description>Esses desafios foram feitos para alcançar como resultado um Side Project. Um Side Project é basicamente um projeto de sistemas por exemplo, que você não é obrigado a fazer, você simplesmente faz por dois motivos: 1- Aproveitar o processo de aprendizagem. 2- Ter mais um projeto no GitHub.
+Mas veja bem&amp;hellip; não é um simples projeto, sim um projeto útil, com coisas que as pessoas poderiam usar para resolver algum problema.</description>
+    </item>
     
     <item>
       <title>Livros para aprender as bases do desenvolvimento WEB</title>
@@ -18,7 +37,8 @@
       <pubDate>Thu, 28 Dec 2017 23:19:04 -0200</pubDate>
       
       <guid>https://codigocuriosidade.github.io/post/programacao/web/</guid>
-      <description>Livros para aprender HTML, CSS e JavaScript Neste primeiro post gostaria de recomendar dois livros que li e recomendo para quem quer aprender HTML/CSS e JS. A velocidade de leitura varia de pessoa para pessoa, mas se você for acostumado com a leitura a segunda parte é ser acostumado a carregar o note para vários lugares (CUIDADO- Grandes riscos de você ser assaltado se morar no Brasil. Se persistirem os sintomas, o médico deverá ser consultado ) A quantidade de livros são incontáveis, o numero de cursos são gigantes, mas para quem gosta de ter um livro (digital ou físico) um ou dois não fazem mal não é verdade?</description>
+      <description>Livros para aprender HTML, CSS e JavaScript
+ Decidir qual assunto aprender é um grande desafio principalmente para o pessoal da TI, já que a variedade de assuntos são gigantes, mas depois de decidido o que estudar falta agora ir atrás dos materiais necessários para desenvolver essa nova habilidade, mas, quais usar? Foi pensando nessa pergunta que resolvi dizer qual os materiais usei para aprender a desenvolver WEB SITES, hoje apresentarei à você dois livros que li e que estou lendo sobre esse assunto.</description>
     </item>
     
   </channel>

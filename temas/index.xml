@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temas on Código &amp; Curiosidade</title>
+    <link>https://codigocuriosidade.github.io/temas/</link>
+    <description>Recent content in Temas on Código &amp; Curiosidade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright©Codigo&amp;Curiosidade</copyright>
+    <lastBuildDate>Thu, 25 Jan 2018 13:41:19 -0200</lastBuildDate>
+    
+	<atom:link href="https://codigocuriosidade.github.io/temas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programação Web</title>
+      <link>https://codigocuriosidade.github.io/temas/programa%C3%A7%C3%A3o-web/</link>
+      <pubDate>Thu, 25 Jan 2018 13:41:19 -0200</pubDate>
+      
+      <guid>https://codigocuriosidade.github.io/temas/programa%C3%A7%C3%A3o-web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

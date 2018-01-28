@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobres on Código &amp; Curiosidade</title>
+    <link>https://codigocuriosidade.github.io/sobre/</link>
+    <description>Recent content in Sobres on Código &amp; Curiosidade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright©Codigo&amp;Curiosidade</copyright>
+    <lastBuildDate>Sat, 27 Jan 2018 13:35:42 -0200</lastBuildDate>
+    
+	<atom:link href="https://codigocuriosidade.github.io/sobre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://codigocuriosidade.github.io/sobre/sobre/</link>
+      <pubDate>Sat, 27 Jan 2018 13:35:42 -0200</pubDate>
+      
+      <guid>https://codigocuriosidade.github.io/sobre/sobre/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
