@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programação on Código &amp; Curiosidade</title>
-    <link>https://codigocuriosidade.github.io/categories/programa%C3%A7%C3%A3o/</link>
-    <description>Recent content in Programação on Código &amp; Curiosidade</description>
+    <title>Desafios on Código &amp; Curiosidade</title>
+    <link>https://codigocuriosidade.github.io/categories/desafios/</link>
+    <description>Recent content in Desafios on Código &amp; Curiosidade</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright©Codigo&amp;Curiosidade</copyright>
     <lastBuildDate>Tue, 20 Mar 2018 10:07:18 -0300</lastBuildDate>
     
-	<atom:link href="https://codigocuriosidade.github.io/categories/programa%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://codigocuriosidade.github.io/categories/desafios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -24,13 +24,13 @@
     </item>
     
     <item>
-      <title>Livros para aprender as bases do desenvolvimento WEB</title>
-      <link>https://codigocuriosidade.github.io/post/programacao/web/</link>
-      <pubDate>Thu, 28 Dec 2017 23:19:04 -0200</pubDate>
+      <title>Desafio Playcode: 1-Montando o layout do site</title>
+      <link>https://codigocuriosidade.github.io/post/desafios/playcode/side-project/desafio1/</link>
+      <pubDate>Thu, 25 Jan 2018 13:41:19 -0200</pubDate>
       
-      <guid>https://codigocuriosidade.github.io/post/programacao/web/</guid>
-      <description>Livros para aprender HTML, CSS e JavaScript
- Decidir qual assunto aprender é um grande desafio principalmente para o pessoal da TI, já que a variedade de assuntos são gigantes, mas depois de decidido o que estudar falta agora ir atrás dos materiais necessários para desenvolver essa nova habilidade, mas, quais usar? Foi pensando nessa pergunta que resolvi dizer qual os materiais usei para aprender a desenvolver WEB SITES, hoje apresentarei à você dois livros que li e que estou lendo sobre esse assunto.</description>
+      <guid>https://codigocuriosidade.github.io/post/desafios/playcode/side-project/desafio1/</guid>
+      <description>Esses desafios foram feitos para alcançar como resultado um Side Project. Um Side Project é basicamente um projeto de sistemas por exemplo, que você não é obrigado a fazer, você simplesmente faz por dois motivos: 1- Aproveitar o processo de aprendizagem. 2- Ter mais um projeto no GitHub.
+Mas veja bem&amp;hellip; não é um simples projeto, sim um projeto útil, com coisas que as pessoas poderiam usar para resolver algum problema.</description>
     </item>
     
   </channel>

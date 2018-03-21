@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onion on Código &amp; Curiosidade</title>
+    <link>https://codigocuriosidade.github.io/deepweb/onion/</link>
+    <description>Recent content in Onion on Código &amp; Curiosidade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright©Codigo&amp;Curiosidade</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 13:23:31 -0300</lastBuildDate>
+    
+	<atom:link href="https://codigocuriosidade.github.io/deepweb/onion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Onion</title>
+      <link>https://codigocuriosidade.github.io/deepweb/rede_onion/</link>
+      <pubDate>Wed, 07 Mar 2018 13:23:31 -0300</pubDate>
+      
+      <guid>https://codigocuriosidade.github.io/deepweb/rede_onion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

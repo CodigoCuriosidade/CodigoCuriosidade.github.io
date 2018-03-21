@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright©Codigo&amp;Curiosidade</copyright>
-    <lastBuildDate>Thu, 25 Jan 2018 13:41:19 -0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 10:07:18 -0300</lastBuildDate>
     
 	<atom:link href="https://codigocuriosidade.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Loop em JavaScript</title>
+      <link>https://codigocuriosidade.github.io/post/programacao/loop-js/</link>
+      <pubDate>Tue, 20 Mar 2018 10:07:18 -0300</pubDate>
+      
+      <guid>https://codigocuriosidade.github.io/post/programacao/loop-js/</guid>
+      <description>Exemplo de loop usando javascript
+ Como usar um loop em JavaScript olhando de outro ponto de vista? Um ponto de vista mais interessante podemos dizer&amp;hellip; Normalmente aprende-se loops em logica de programação usando exemplos com contas matemáticas, mas curiosos de verdade não são normais, então criei uma solução simples usando loop para mostrar imagens com um efeito simples. Conhecimentos usados: HTML, CSS, JavaScript e logica de programação. Código:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html lang=&amp;#34;en&amp;#34;&amp;gt; &amp;lt;head&amp;gt; &amp;lt;meta charset=&amp;#34;UTF-8&amp;#34;&amp;gt; &amp;lt;meta name=&amp;#34;viewport&amp;#34; content=&amp;#34;width=device-width, initial-scale=1.</description>
+    </item>
+    
+    <item>
+      <title>User-Agent</title>
+      <link>https://codigocuriosidade.github.io/post/user-agent/</link>
+      <pubDate>Sat, 03 Mar 2018 12:58:48 -0300</pubDate>
+      
+      <guid>https://codigocuriosidade.github.io/post/user-agent/</guid>
+      <description>Um user-agent é um cabeçalho de requisição enviado do cliente (navegador por exemplo) para o servidor( por exemplo web server) tendo como conteúdo algumas informações como: qual o sistema operacional e sua versão que esta sendo usada pelo cliente, IP, qual o tipo de navegador e sua versão . Uma requisição é um pedido, uma solicitação de algo para o servidor, que pode ser uma pagina web, um video ou simplesmente um pacote com alguns bits para ver a rota feita pelos pacotes ate a localização física do servidor.</description>
+    </item>
     
     <item>
       <title>Desafio Playcode: 1-Montando o layout do site</title>
